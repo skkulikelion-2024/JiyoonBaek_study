@@ -5,3 +5,4 @@
 3주차: react js 기본기<br>
 4주차: react js STATE<br>
 5주차: react js PROPS<br>
+7주차: CRA, EFFECTS <br>
